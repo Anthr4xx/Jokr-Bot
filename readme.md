@@ -31,7 +31,7 @@ Este proyecto puede instalarse utilizando Pipenv o pip con venv.
 2. Instalar las dependencias:
 
    ```sh
-   pipenv install
+   pipenv install --deploy
    ```
 
 3. Activar el entorno virtual:
